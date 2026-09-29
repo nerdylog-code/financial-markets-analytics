@@ -1,0 +1,99 @@
+{
+  "csv": {
+    "query_results/Q01_SELECT.csv": {
+      "columns": 8,
+      "rows": 10
+    },
+    "query_results/Q02_SELECT.csv": {
+      "columns": 5,
+      "rows": 5
+    },
+    "query_results/Q03_SELECT.csv": {
+      "columns": 4,
+      "rows": 3780
+    },
+    "query_results/Q04_SELECT.csv": {
+      "columns": 4,
+      "rows": 10
+    },
+    "query_results/Q05_SELECT.csv": {
+      "columns": 5,
+      "rows": 12600
+    },
+    "query_results/Q06_WITH_ma_AS.csv": {
+      "columns": 6,
+      "rows": 86
+    },
+    "query_results/Q07_SELECT.csv": {
+      "columns": 14,
+      "rows": 50
+    },
+    "query_results/Q08_SELECT.csv": {
+      "columns": 4,
+      "rows": 580
+    },
+    "query_results/Q09_WITH_vol_stats_AS.csv": {
+      "columns": 7,
+      "rows": 588
+    },
+    "query_results/Q10_WITH_running_max_AS.csv": {
+      "columns": 6,
+      "rows": 12600
+    },
+    "query_results/Q11_WITH_running_max_AS.csv": {
+      "columns": 4,
+      "rows": 10
+    },
+    "query_results/Q12_SELECT.csv": {
+      "columns": 4,
+      "rows": 55
+    },
+    "query_results/Q13_WITH_quarterly_AS.csv": {
+      "columns": 7,
+      "rows": 200
+    },
+    "query_results/Q14_SELECT.csv": {
+      "columns": 7,
+      "rows": 10
+    },
+    "query_results/Q15_WITH_port_AS.csv": {
+      "columns": 7,
+      "rows": 1
+    },
+    "query_results/Q16_SELECT.csv": {
+      "columns": 2,
+      "rows": 10
+    },
+    "query_results/Q17_SELECT.csv": {
+      "columns": 4,
+      "rows": 10
+    },
+    "query_results/Q18_SELECT.csv": {
+      "columns": 4,
+      "rows": 50
+    },
+    "query_results/Q19_WITH_downside_AS.csv": {
+      "columns": 5,
+      "rows": 10
+    },
+    "stock_prices.csv": {
+      "columns": 9,
+      "rows": 12600
+    }
+  },
+  "sql": {
+    "stock_analyses.sql": {
+      "statements": 19
+    }
+  },
+  "sqlite": {
+    "stock_analytics.db": {
+      "stock_prices": 12600
+    }
+  },
+  "xlsx": {
+    "Stock_Analytics_Dashboard.xlsx": {
+      "sheets": 7
+    }
+  }
+}
